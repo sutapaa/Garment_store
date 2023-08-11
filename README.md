@@ -1,1 +1,1 @@
-# Garment_store
+# Garment_store data analysis project
